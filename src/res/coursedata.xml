@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>1</id>
+    <CourseName>Algorithms</CourseName>
+    <Instructor>Scott Austin C.</Instructor>
+    <Courseduration>8 weeks</Courseduration>
+    <Coursetime>2H</Coursetime>
+    <Location>Hall1</Location>
+  </row>
+  <row>
+    <id>2</id>
+    <CourseName>Number Theory.</CourseName>
+    <Instructor>Rojas Yoshio N.</Instructor>
+    <Courseduration>10 weeks</Courseduration>
+    <Coursetime>3H</Coursetime>
+    <Location>Hall4</Location>
+  </row>
+  <row>
+    <id>3</id>
+    <CourseName>Computer Engineering</CourseName>
+    <Instructor>Farley Jamal C.</Instructor>
+    <Courseduration>12 weeks</Courseduration>
+    <Coursetime>1.5H</Coursetime>
+    <Location>Hall2</Location>
+  </row>
+  <row>
+    <id>4</id>
+    <CourseName>Computer Forensics.</CourseName>
+    <Instructor>Ferguson Nadine X.</Instructor>
+    <Courseduration>8 weeks</Courseduration>
+    <Coursetime>2H</Coursetime>
+    <Location>Hall3</Location>
+  </row>
+  <row>
+    <id>5</id>
+    <CourseName>Computer Networking.</CourseName>
+    <Instructor>Webster Allistair M.</Instructor>
+    <Courseduration>10 weeks</Courseduration>
+    <Coursetime>3H</Coursetime>
+    <Location>Hall1</Location>
+  </row>
+  <row>
+    <id>6</id>
+    <CourseName>Computer Programming.</CourseName>
+    <Instructor>Holland Lee I.</Instructor>
+    <Courseduration>12 weeks</Courseduration>
+    <Coursetime>1.5H</Coursetime>
+    <Location>Hall4</Location>
+  </row>
+  <row>
+    <id>7</id>
+    <CourseName>Cyber Security.</CourseName>
+    <Instructor>Fry Alisa B.</Instructor>
+    <Courseduration>8 weeks</Courseduration>
+    <Coursetime>2H</Coursetime>
+    <Location>Hall2</Location>
+  </row>
+  <row>
+    <id>8</id>
+    <CourseName>Database Administration.</CourseName>
+    <Instructor>Lancaster Cassidy F.</Instructor>
+    <Courseduration>10 weeks</Courseduration>
+    <Coursetime>3H</Coursetime>
+    <Location>Hall3</Location>
+  </row>
+  <row>
+    <id>9</id>
+    <CourseName>Information Security.</CourseName>
+    <Instructor>Parker Chelsea G.</Instructor>
+    <Courseduration>12 weeks</Courseduration>
+    <Coursetime>1.5H</Coursetime>
+    <Location>Hall1</Location>
+  </row>
+  <row>
+    <id>10</id>
+    <CourseName>Information Technology.</CourseName>
+    <Instructor>Montgomery Edan O.</Instructor>
+    <Courseduration>8 weeks</Courseduration>
+    <Coursetime>2H</Coursetime>
+    <Location>Hall4</Location>
+  </row>
+  <row>
+    <id>11</id>
+    <CourseName>Data Structure &amp; Algorithms.</CourseName>
+    <Instructor>Sutton Yoshi A.</Instructor>
+    <Courseduration>10 weeks</Courseduration>
+    <Coursetime>3H</Coursetime>
+    <Location>Hall2</Location>
+  </row>
+  <row>
+    <id>12</id>
+    <CourseName>Advanced Programming . </CourseName>
+    <Instructor>Valentine Kelly R.</Instructor>
+    <Courseduration>12 weeks</Courseduration>
+    <Coursetime>1.5H</Coursetime>
+    <Location>Hall3</Location>
+  </row>
+  <row>
+    <id>13</id>
+    <CourseName>Computer Architecture. </CourseName>
+    <Instructor>Townsend Raymond U.</Instructor>
+    <Courseduration>8 weeks</Courseduration>
+    <Coursetime>2H</Coursetime>
+    <Location>Hall1</Location>
+  </row>
+  <row>
+    <id>14</id>
+    <CourseName>Operating Systems. </CourseName>
+    <Instructor>Zamora Morgan W.</Instructor>
+    <Courseduration>10 weeks</Courseduration>
+    <Coursetime>3H</Coursetime>
+    <Location>Hall4</Location>
+  </row>
+  <row>
+    <id>15</id>
+    <CourseName>Mathematics.</CourseName>
+    <Instructor>Watts Alika V.</Instructor>
+    <Courseduration>12 weeks</Courseduration>
+    <Coursetime>1.5H</Coursetime>
+    <Location>Hall2</Location>
+  </row>
+  <row>
+    <id>16</id>
+    <CourseName>Database Management.</CourseName>
+    <Instructor>Vazquez Barbara P.</Instructor>
+    <Courseduration>8 weeks</Courseduration>
+    <Coursetime>2H</Coursetime>
+    <Location>Hall3</Location>
+  </row>
+  <row>
+    <id>17</id>
+    <CourseName>Advanced Computer Networks.</CourseName>
+    <Instructor>Haley Cathleen U.</Instructor>
+    <Courseduration>10 weeks</Courseduration>
+    <Coursetime>3H</Coursetime>
+    <Location>Hall1</Location>
+  </row>
+</root>

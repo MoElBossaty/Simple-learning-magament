@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\MoElBosaty\\Downloads\\opencsv-5.5.1.jar",
+        "c:\\Users\\MoElBosaty\\Downloads\\opencsv-5.5.1-javadoc.jar"
+    ]
+}
